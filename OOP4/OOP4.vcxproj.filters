@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Interfaces">
+      <UniqueIdentifier>{e879c01a-e7f0-4392-aa1a-438d029e0335}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Interfaces">
+      <UniqueIdentifier>{10cb9461-2475-48c6-8871-104770ece81f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Lamps">
+      <UniqueIdentifier>{973cbe0a-1f25-4aeb-bf2e-fad75fe74a80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Photons">
+      <UniqueIdentifier>{ca73eb98-b1b2-4411-bce0-9c74975844c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Lamps">
+      <UniqueIdentifier>{9ac70cb7-89e3-4fdb-9dce-ca68f76e4c84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Photons">
+      <UniqueIdentifier>{4b2011bb-c1b1-4b51-ba2a-fc9db11174d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Objects">
+      <UniqueIdentifier>{6478e8c4-e67a-4245-9975-1f08723f9e80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Objects">
+      <UniqueIdentifier>{462aa7eb-5e25-4807-b560-253e84660630}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="ABSFigure.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="IMove.cpp">
+      <Filter>Исходные файлы\Interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="LedLamp.cpp">
+      <Filter>Исходные файлы\Lamps</Filter>
+    </ClCompile>
+    <ClCompile Include="Lamp.cpp">
+      <Filter>Исходные файлы\Lamps</Filter>
+    </ClCompile>
+    <ClCompile Include="UVLamp.cpp">
+      <Filter>Исходные файлы\Lamps</Filter>
+    </ClCompile>
+    <ClCompile Include="Photon.cpp">
+      <Filter>Исходные файлы\Photons</Filter>
+    </ClCompile>
+    <ClCompile Include="UVPhoton.cpp">
+      <Filter>Исходные файлы\Photons</Filter>
+    </ClCompile>
+    <ClCompile Include="LedPhoton.cpp">
+      <Filter>Исходные файлы\Photons</Filter>
+    </ClCompile>
+    <ClCompile Include="Mirror.cpp">
+      <Filter>Исходные файлы\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Prism.cpp">
+      <Filter>Исходные файлы\Objects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ABSFigure.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="IMove.h">
+      <Filter>Файлы заголовков\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="UVLamp.h">
+      <Filter>Файлы заголовков\Lamps</Filter>
+    </ClInclude>
+    <ClInclude Include="Lamp.h">
+      <Filter>Файлы заголовков\Lamps</Filter>
+    </ClInclude>
+    <ClInclude Include="LedLamp.h">
+      <Filter>Файлы заголовков\Lamps</Filter>
+    </ClInclude>
+    <ClInclude Include="Photon.h">
+      <Filter>Файлы заголовков\Photons</Filter>
+    </ClInclude>
+    <ClInclude Include="UVPhoton.h">
+      <Filter>Файлы заголовков\Photons</Filter>
+    </ClInclude>
+    <ClInclude Include="LedPhoton.h">
+      <Filter>Файлы заголовков\Photons</Filter>
+    </ClInclude>
+    <ClInclude Include="Mirror.h">
+      <Filter>Файлы заголовков\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Prism.h">
+      <Filter>Файлы заголовков\Objects</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

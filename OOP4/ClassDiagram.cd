@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ABSFigure" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAGAAAAAAAEAAAAAABgAGAAAAA=</HashCode>
+      <FileName>ABSFigure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point" Collapsed="true">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAEAAAAAAAAAAMAACAAAAAgAAIAAA=</HashCode>
+      <FileName>Point.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Photon" Collapsed="true">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAEAAAAAAAgAIcAQABAAAAAAAAAAA=</HashCode>
+      <FileName>Photon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lamp" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAQAEAAAAAAAAAAEQAAACCAAAAAAAAA=</HashCode>
+      <FileName>Lamp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPhoton" Collapsed="true">
+    <Position X="2" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAAAACAAAAAAA=</HashCode>
+      <FileName>UVPhoton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LedPhoton" Collapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAQAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LedPhoton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LedLamp" Collapsed="true">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAEAAAAAAAAAAEAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>LedLamp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVLamp" Collapsed="true">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAEAAAAAAAAAAEBAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UVLamp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMove" Collapsed="true">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMove.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mirror" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAgAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mirror.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prism" Collapsed="true">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Prism.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
